@@ -12,13 +12,14 @@ Here are some common deployment scenarios, each with a guide on how to get start
 3. Local [deployment with multiple containers using podman or docker compose](
    #podman-or-docker-compose).
 
-In all cases, after deployment see[what to do after the quickstart](
-#what-to-do-after-the-quickstart) to start using your installation.
+In all cases, after deployment see
+[what to do after the quickstart](#what-to-do-after-the-quickstart) to start using your installation.
 
 
 ## Single Container
 
 This deployment is a 2-step process:
+
 1. [Creating persistent directories and settings](#create-the-directories-and-settings).
 2. [Starting the container](#starting-the-container)
 
